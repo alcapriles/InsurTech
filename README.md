@@ -1,6 +1,6 @@
-# digitalhealth
-## Tema: Patient Data
-## Descrição: sistema de registro do histórico médico de pacientes.
+# Supply Chain 4.0
+## Tema: Supply Chain Management
+## Descrição: sistema de registro para acompanhamento de cadeia de suprimentos industrial.
 ## Membros: 
 ## Ana Capriles
 ## Tiago Mingossi

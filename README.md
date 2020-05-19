@@ -1,7 +1,7 @@
 # digitalhealth
-# Tema: Patient Data
-# Descrição: sistema de registro do histórico médico de pacientes.
-# Membros: 
-# Ana Port
-# Tiago Mingossi
-# Eduardo Carvalho
+## Tema: Patient Data
+## Descrição: sistema de registro do histórico médico de pacientes.
+## Membros: 
+## Ana Capriles
+## Tiago Mingossi
+## Eduardo Carvalho

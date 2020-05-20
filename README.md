@@ -1,6 +1,6 @@
-# Supply Chain 4.0
-## Tema: Supply Chain Management
-## Descrição: sistema de registro para acompanhamento de cadeia de suprimentos industrial.
+# InsurTech
+## Tema: Insurance
+## Descrição: Projeto final da matéria eletiva "Ativos Digitais e Blockchain"
 ## Membros: 
 ## Ana Capriles
 ## Tiago Mingossi
